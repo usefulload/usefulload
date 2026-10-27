@@ -2,10 +2,11 @@
 
 This organization develops technical, economic, and policy approaches
 for converting **low-entropy energy stocks into high-entropy energy
-stocks in ways that maximize their usefulness to the general
-population**.
+stocks in ways that maximize their usefulness and benefits to the general
+population** while at the same time **minimizing externalities that are often 
+ignored or misvalued by economic structures.**
 
-Modern computing infrastructure consumes enormous quantities of energy
+For example, modern computing infrastructure consumes enormous quantities of energy
 and converts concentrated, useful energy into computation and ultimately
 dispersed heat. The question is not simply whether that energy is
 consumed, but **what society receives in return, who receives those
@@ -26,13 +27,13 @@ Our goal is to develop practical systems in which:
 -   technical design, economics, governance, and public policy are
     considered together rather than as separate problems.
 
-We are interested in both **technical and political solutions**.
+We are interested in all solutions: **technical, political, economic, social**.
 Optimization cannot be defined solely in terms of computational
-throughput, energy efficiency, or financial return. A system that is
+throughput, energy efficiency, financial return, or social benefits. A system that is
 technically efficient but transfers its benefits to a small number of
 wealthy owners while imposing energy, water, environmental, or
 infrastructure costs on the public is not well optimized from a societal
-perspective.
+perspective. Any viable solution must be adopted and implemented sustainably. 
 
 ## Project 1: Data Centers
 
