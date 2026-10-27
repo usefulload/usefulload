@@ -42,38 +42,8 @@ water systems, telecommunications infrastructure, and local economies.
 This project explores **intelligent and socially aware data-center
 design and governance**.
 
-We are interested in questions including:
+Read more [here](../datacenters)
 
--   Where should data centers be located?
--   When should computational loads operate?
--   How can computing loads complement rather than destabilize
-    electrical grids?
--   Can flexible computing make better use of intermittent or otherwise
-    curtailed renewable energy?
--   How can waste heat be recovered and put to productive use?
--   How can water consumption, land use, emissions, noise, and other
-    local impacts be minimized?
--   How should the infrastructure required by data centers be financed?
--   How can communities hosting data centers receive meaningful economic
-    and infrastructure benefits?
--   Which computational services provide substantial public value?
--   How should ownership and governance affect the design and operation
-    of these systems?
-
-We reject the assumption that large-scale computational infrastructure
-should necessarily be controlled by oligarchs, monopolies, or other
-wealthy entities largely insulated from democratic influence.
-
-Data centers increasingly constitute essential infrastructure. Their
-development should therefore be subject to meaningful public scrutiny
-and democratic influence, and their benefits should extend beyond their
-owners.
-
-Potential solutions may include engineering innovations, grid
-integration, heat reuse, public or cooperative ownership, taxation,
-regulation, community-benefit agreements, public computing
-infrastructure, and other mechanisms that align private incentives with
-public benefit.
 
 ## Project 2: Bitcoin Mining
 
@@ -87,52 +57,6 @@ Bitcoin mining:
 resulting system produce the greatest possible public benefit while
 minimizing its external costs?**
 
-Areas of interest include:
-
--   locating mining where it can productively consume otherwise
-    curtailed or stranded energy;
--   operating mining loads flexibly in response to grid conditions;
--   evaluating claims that mining can stabilize electrical grids or
-    support renewable-energy development;
--   recovering and productively using waste heat;
--   measuring local environmental and infrastructure impacts;
--   identifying when mining increases electricity costs or competes with
-    higher-value uses of energy;
--   developing ownership and revenue-sharing structures that distribute
-    benefits more broadly;
--   distinguishing socially useful applications from arrangements that
-    merely subsidize private accumulation; and
--   exploring regulatory, taxation, cooperative, municipal, or
-    public-ownership models.
-
-The purpose of this work is not to assume that Bitcoin mining is
-inherently socially beneficial or inherently wasteful. It is to evaluate
-it as an **energy-conversion and economic system** and determine under
-what conditions, if any, its operation can serve a broader public
-interest.
-
-## A Common Framework
-
-Both projects begin with the same basic physical reality:
-
-> Concentrated energy resources are finite and valuable. Once converted
-> into dispersed heat, their capacity to perform additional work is
-> greatly reduced.
-
-The central question is therefore not simply how efficiently we can
-consume energy, but:
-
-> **How should we use available energy resources so that the transition
-> from low-entropy energy to high-entropy energy produces the greatest
-> durable benefit for society?**
-
-Answering that question requires more than engineering.
-
-It requires thermodynamics, electrical engineering, computer science,
-economics, environmental science, urban and regional planning, public
-policy, and democratic governance.
-
-This organization exists to bring those perspectives together and
-develop **open, quantitative, technically credible, and socially
+Read more [here](../bitcoinmining)
 accountable alternatives** for energy-intensive computing
 infrastructure.
