@@ -42,7 +42,7 @@ water systems, telecommunications infrastructure, and local economies.
 This project explores **intelligent and socially aware data-center
 design and governance**.
 
-Read more [here](../datacenters)
+Read more [here](https://github.com/usefulload/datacenters)
 
 
 ## Project 2: Bitcoin Mining
@@ -57,6 +57,6 @@ Bitcoin mining:
 resulting system produce the greatest possible public benefit while
 minimizing its external costs?**
 
-Read more [here](../bitcoinmining)
+Read more [here](https://github.com/usefulload/datacenters)
 accountable alternatives** for energy-intensive computing
 infrastructure.
